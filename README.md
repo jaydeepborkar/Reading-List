@@ -14,7 +14,7 @@ List of research papers/blog posts I'm reading currently and plan to read. Most 
 |[Is attacking machine learning easier than defending it?](http://www.cleverhans.io/security/privacy/ml/2017/02/15/why-attacking-machine-learning-is-easier-than-defending-it.html)| |To be read| 
 
 
-
+-----------------
 
 Some of papers that I have enjoyed reading in the past! I'm very likely forgetting many other excellent papers that I have read. 
 | Paper| 
@@ -27,7 +27,7 @@ Some of papers that I have enjoyed reading in the past! I'm very likely forgetti
 |[Making an Invisibility Cloak: Real World Adversarial Attacks on Object Detectors](https://arxiv.org/abs/1910.14667)|
 |[Adversarial attacks on Copyright Detection Systems](https://arxiv.org/abs/1906.07153)|
 |[Adversarial Training for Free!](https://arxiv.org/abs/1904.12843)|
-|[Physical Adversarial Examples for Object Detectors}(https://arxiv.org/abs/1807.07769)|
+|[Physical Adversarial Examples for Object Detectors](https://arxiv.org/abs/1807.07769)|
 |[The Secret Sharer: Evaluating and Testing Unintended Memorization in Neural Networks](https://www.usenix.org/system/files/sec19-carlini.pdf)|
 
 
