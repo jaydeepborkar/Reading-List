@@ -14,7 +14,9 @@ List of research papers/blog posts I'm reading currently and plan to read. Most 
 |[Is attacking machine learning easier than defending it?](http://www.cleverhans.io/security/privacy/ml/2017/02/15/why-attacking-machine-learning-is-easier-than-defending-it.html)| |To be read| 
 
 
-Some of papers that I have enjoyed reading in the past! 
+
+
+Some of papers that I have enjoyed reading in the past! I'm very likely forgetting many other excellent papers that I have read. 
 | Paper| 
 |------|
 |[Adversarial Examples for Evaluating Reading Comprehension Systems](https://nlp.stanford.edu/pubs/jia2017adversarial.pdf)|
