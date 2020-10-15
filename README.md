@@ -16,6 +16,7 @@ List of research papers/blog posts I'm reading currently and plan to read. Most 
 
 Some of papers that I have enjoyed reading in the past! 
 | Paper| 
+|------|
 |[Adversarial Examples for Evaluating Reading Comprehension Systems](https://nlp.stanford.edu/pubs/jia2017adversarial.pdf)|
 | [Robustness May Be at Odds with Accuracy](https://arxiv.org/abs/1805.12152#:~:text=We%20show%20that%20there%20may,a%20reduction%20of%20standard%20accuracy.)|
 | [Adversarial Examples Are Not Bugs, They Are Features](https://arxiv.org/abs/1905.02175)|
