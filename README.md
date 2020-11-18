@@ -15,6 +15,7 @@ List of research papers/blog posts I'm reading currently and plan to read. Most 
 | [High Accuracy and High Fidelity Extraction of Neural Networks](https://arxiv.org/abs/1909.01838)| | To be read| 
 |[Is attacking machine learning easier than defending it?](http://www.cleverhans.io/security/privacy/ml/2017/02/15/why-attacking-machine-learning-is-easier-than-defending-it.html)| |To be read| 
 | [Customizing Triggers with Concealed Data Poisoning](https://arxiv.org/pdf/2010.12563.pdf)| | To be read| 
+| [Adversarial Examples that Fool both Computer Vision and Time-Limited Humans](https://arxiv.org/pdf/1802.08195.pdf)| |To be read|
 
 
 -----------------
