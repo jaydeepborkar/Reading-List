@@ -16,7 +16,7 @@ List of research papers/blog posts I'm reading currently and plan to read. Most 
 |[Is attacking machine learning easier than defending it?](http://www.cleverhans.io/security/privacy/ml/2017/02/15/why-attacking-machine-learning-is-easier-than-defending-it.html)| |To be read| 
 | [Customizing Triggers with Concealed Data Poisoning](https://arxiv.org/pdf/2010.12563.pdf)| | To be read| 
 | [Adversarial Examples that Fool both Computer Vision and Time-Limited Humans](https://arxiv.org/pdf/1802.08195.pdf)| |To be read|
-| [BadNets: Identifying Vulnerabilities in the Machine Learning Model Supply Chain](https://machine-learning-and-security.github.io/papers/mlsec17_paper_51.pdf)| |To be read|
+| [BadNets: Identifying Vulnerabilities in the Machine Learning Model Supply Chain](https://machine-learning-and-security.github.io/papers/mlsec17_paper_51.pdf)| |Finished|
 
 
 -----------------
