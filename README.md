@@ -4,19 +4,20 @@ List of research papers/blog posts I'm reading currently and plan to read. Most 
 
 | Paper                              | Date | Status |
 | -----------------------------------| -----| -------| 
-| [SoK: The Faults in our ASRs: An Overview of Attacks against Automatic Speech Recognition and Speaker Identification Systems](https://arxiv.org/abs/2007.06622)| Oct 15-17 | Finished |
-| PhD Thesis - [Models and Algorithms for Container Vessel Stowage Optimization](https://core.ac.uk/download/pdf/50527435.pdf)| |Finished|
-| PhD Thesis - [Explaining Deep Neural Networks](https://arxiv.org/pdf/2010.01496.pdf)| |To be read| 
-| [Poison Frogs! Targeted Clean-Label Poisoning Attacks on Neural Networks](https://arxiv.org/abs/1804.00792)| | To be read| 
-| [Stolen Memories: Leveraging Model Memorization for Calibrated White-Box Membership Inference](https://arxiv.org/abs/1906.11798)| |To be read|
-| [Overfitting, robustness, and malicious algorithms: A study of potential causes of privacy risk in machine learning](https://content.iospress.com/download/journal-of-computer-security/jcs191362?id=journal-of-computer-security%2Fjcs191362)| | To be read| 
-|[The Limitations of Deep Learning in Adversarial Settings](https://arxiv.org/abs/1511.07528)| | To be read| 
+| [SoK: The Faults in our ASRs: An Overview of Attacks against Automatic Speech Recognition and Speaker Identification Systems](https://arxiv.org/abs/2007.06622)|Finished |
+| PhD Thesis - [Models and Algorithms for Container Vessel Stowage Optimization](https://core.ac.uk/download/pdf/50527435.pdf)|Finished|
+| PhD Thesis - [Explaining Deep Neural Networks](https://arxiv.org/pdf/2010.01496.pdf)|To be read| 
+| [Poison Frogs! Targeted Clean-Label Poisoning Attacks on Neural Networks](https://arxiv.org/abs/1804.00792)| |To be read| 
+| [Stolen Memories: Leveraging Model Memorization for Calibrated White-Box Membership Inference](https://arxiv.org/abs/1906.11798)|To be read|
+| [Overfitting, robustness, and malicious algorithms: A study of potential causes of privacy risk in machine learning](https://content.iospress.com/download/journal-of-computer-security/jcs191362?id=journal-of-computer-security%2Fjcs191362)|To be read| 
+|[The Limitations of Deep Learning in Adversarial Settings](https://arxiv.org/abs/1511.07528)|To be read| 
 | [A Marauder’s Map of Security and Privacy in Machine Learning: An overview of current and future research directions for making machine learning secure and private](https://arxiv.org/pdf/1811.01134.pdf)| | To be read| 
-| [High Accuracy and High Fidelity Extraction of Neural Networks](https://arxiv.org/abs/1909.01838)| | To be read| 
+| [High Accuracy and High Fidelity Extraction of Neural Networks](https://arxiv.org/abs/1909.01838)|To be read| 
 |[Is attacking machine learning easier than defending it?](http://www.cleverhans.io/security/privacy/ml/2017/02/15/why-attacking-machine-learning-is-easier-than-defending-it.html)| |To be read| 
-| [Customizing Triggers with Concealed Data Poisoning](https://arxiv.org/pdf/2010.12563.pdf)| | To be read| 
-| [Adversarial Examples that Fool both Computer Vision and Time-Limited Humans](https://arxiv.org/pdf/1802.08195.pdf)| |To be read|
-| [BadNets: Identifying Vulnerabilities in the Machine Learning Model Supply Chain](https://machine-learning-and-security.github.io/papers/mlsec17_paper_51.pdf)| |Finished|
+| [Customizing Triggers with Concealed Data Poisoning](https://arxiv.org/pdf/2010.12563.pdf)|To be read| 
+| [Adversarial Examples that Fool both Computer Vision and Time-Limited Humans](https://arxiv.org/pdf/1802.08195.pdf)|To be read|
+| [BadNets: Identifying Vulnerabilities in the Machine Learning Model Supply Chain](https://machine-learning-and-security.github.io/papers/mlsec17_paper_51.pdf)|Finished|
+| [Are Self-Driving Cars Secure? Evasion Attacks against Deep Neural Networks for Steering Angle Prediction](https://arxiv.org/pdf/1904.07370.pdf)|Finished|
 
 
 -----------------
@@ -34,6 +35,7 @@ Some of papers that I have enjoyed reading in the past! I'm very likely forgetti
 |[Adversarial Training for Free!](https://arxiv.org/abs/1904.12843)|
 |[Physical Adversarial Examples for Object Detectors](https://arxiv.org/abs/1807.07769)|
 |[The Secret Sharer: Evaluating and Testing Unintended Memorization in Neural Networks](https://www.usenix.org/system/files/sec19-carlini.pdf)|
+| [Towards Evaluating the Robustness of Neural Networks](https://arxiv.org/pdf/1608.04644.pdf)|
 
 
 
