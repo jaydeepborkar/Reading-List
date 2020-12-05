@@ -18,6 +18,7 @@ List of research papers/blog posts I'm reading currently and plan to read. Most 
 | [Adversarial Examples that Fool both Computer Vision and Time-Limited Humans](https://arxiv.org/pdf/1802.08195.pdf)|To be read|
 | [BadNets: Identifying Vulnerabilities in the Machine Learning Model Supply Chain](https://machine-learning-and-security.github.io/papers/mlsec17_paper_51.pdf)|Finished|
 | [Are Self-Driving Cars Secure? Evasion Attacks against Deep Neural Networks for Steering Angle Prediction](https://arxiv.org/pdf/1904.07370.pdf)|Finished|
+| [Unrestricted Adversarial Examples](https://arxiv.org/pdf/1809.08352.pdf)|Finished|
 
 
 -----------------
