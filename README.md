@@ -2,8 +2,8 @@
 List of research papers/blog posts I'm reading currently and plan to read. Most of them are on the adversarial machine learning and privacy. 
 
 
-| Paper                              | Date | Status |
-| -----------------------------------| -----| -------| 
+| Paper                              |Status |
+| -----------------------------------| -------| 
 | [SoK: The Faults in our ASRs: An Overview of Attacks against Automatic Speech Recognition and Speaker Identification Systems](https://arxiv.org/abs/2007.06622)|Finished|
 | [Why Do Adversarial Attacks Transfer? Explaining Transferability of Evasion and Poisoning Attacks](https://www.usenix.org/system/files/sec19-demontis.pdf)|To be read|
 | PhD Thesis - [Models and Algorithms for Container Vessel Stowage Optimization](https://core.ac.uk/download/pdf/50527435.pdf)|Finished|
