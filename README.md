@@ -5,6 +5,7 @@ List of research papers/blog posts I'm reading currently and plan to read. Most 
 | Paper                              | Date | Status |
 | -----------------------------------| -----| -------| 
 | [SoK: The Faults in our ASRs: An Overview of Attacks against Automatic Speech Recognition and Speaker Identification Systems](https://arxiv.org/abs/2007.06622)|Finished|
+| [Why Do Adversarial Attacks Transfer? Explaining Transferability of Evasion and Poisoning Attacks](https://www.usenix.org/system/files/sec19-demontis.pdf)|To be read|
 | PhD Thesis - [Models and Algorithms for Container Vessel Stowage Optimization](https://core.ac.uk/download/pdf/50527435.pdf)|Finished|
 | PhD Thesis - [Explaining Deep Neural Networks](https://arxiv.org/pdf/2010.01496.pdf)|To be read| 
 | [Poison Frogs! Targeted Clean-Label Poisoning Attacks on Neural Networks](https://arxiv.org/abs/1804.00792)|To be read| 
