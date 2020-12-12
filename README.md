@@ -20,6 +20,8 @@ List of research papers/blog posts I'm reading currently and plan to read. Most 
 | [BadNets: Identifying Vulnerabilities in the Machine Learning Model Supply Chain](https://machine-learning-and-security.github.io/papers/mlsec17_paper_51.pdf)|Finished|
 | [Are Self-Driving Cars Secure? Evasion Attacks against Deep Neural Networks for Steering Angle Prediction](https://arxiv.org/pdf/1904.07370.pdf)|Finished|
 | [Unrestricted Adversarial Examples](https://arxiv.org/pdf/1809.08352.pdf)|Finished|
+| [Ethical Testing in the Real World: Evaluating Physical Testing of Adversarial Machine Learning](https://securedata.lol/camera_ready/27.pdf)| To be read|
+| [Biologically Inspired Mechanisms for Adversarial Robustness](https://proceedings.neurips.cc/paper/2020/file/17256f049f1e3fede17c7a313f7657f4-Paper.pdf)| To be read|
 
 
 -----------------
