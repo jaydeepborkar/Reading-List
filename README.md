@@ -1,5 +1,5 @@
 # Reading List
-List of research papers/blog posts I'm reading currently and plan to read. Most of them are on the adversarial machine learning and privacy. 
+List of research papers/blog posts I'm reading currently and plan to read. Most of them are on adversarial machine learning and privacy. Feel free to start a pull request if you have any interesting paper(s) to add. 
 
 
 | Paper                              |Status |
@@ -23,6 +23,7 @@ List of research papers/blog posts I'm reading currently and plan to read. Most 
 | [Ethical Testing in the Real World: Evaluating Physical Testing of Adversarial Machine Learning](https://securedata.lol/camera_ready/27.pdf)| To be read|
 | [Biologically Inspired Mechanisms for Adversarial Robustness](https://proceedings.neurips.cc/paper/2020/file/17256f049f1e3fede17c7a313f7657f4-Paper.pdf)| To be read|
 | [Extracting Training Data from Large Language Models](https://arxiv.org/pdf/2012.07805.pdf)| To be read|
+| [TOWARDS ROBUSTNESS AGAINST UNSUSPICIOUS ADVERSARIAL EXAMPLES](https://arxiv.org/pdf/2005.04272.pdf)| To be read|
 
 
 -----------------
