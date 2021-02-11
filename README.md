@@ -24,6 +24,7 @@ List of research papers/blog posts I'm reading currently and plan to read. Most 
 | [Biologically Inspired Mechanisms for Adversarial Robustness](https://proceedings.neurips.cc/paper/2020/file/17256f049f1e3fede17c7a313f7657f4-Paper.pdf)| To be read|
 | [Extracting Training Data from Large Language Models](https://arxiv.org/pdf/2012.07805.pdf)| To be read|
 | [TOWARDS ROBUSTNESS AGAINST UNSUSPICIOUS ADVERSARIAL EXAMPLES](https://arxiv.org/pdf/2005.04272.pdf)| To be read|
+| [Universal Adversarial Triggers for Attacking and Analyzing NLP](https://arxiv.org/abs/1908.07125) | To be read| 
 
 
 -----------------
