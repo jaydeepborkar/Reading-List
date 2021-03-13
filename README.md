@@ -4,6 +4,7 @@ List of research papers/blog posts I'm reading currently and plan to read. Most 
 
 | Paper                              |Status |
 | -----------------------------------| -------| 
+| [Privacy Regularization: Joint Privacy-Utility Optimization in Language Models](http://cseweb.ucsd.edu/~fmireshg/naacl_2021_private_text_gen.pdf)| To be read|
 | [Does GPT-2 Know Your Phone Number?](https://bair.berkeley.edu/blog/2020/12/20/lmmem/) | To be read| 
 | [SoK: The Faults in our ASRs: An Overview of Attacks against Automatic Speech Recognition and Speaker Identification Systems](https://arxiv.org/abs/2007.06622)|Finished|
 | [Why Do Adversarial Attacks Transfer? Explaining Transferability of Evasion and Poisoning Attacks](https://www.usenix.org/system/files/sec19-demontis.pdf)|To be read|
