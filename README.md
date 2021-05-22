@@ -4,6 +4,7 @@ List of research papers/blog posts on trustworthy machine learning I'm reading c
 
 | Paper                              |Status |
 | -----------------------------------| -------| 
+| [Natural Adversarial Examples](https://arxiv.org/pdf/1907.07174.pdf)| To be read| 
 | [Privacy Regularization: Joint Privacy-Utility Optimization in Language Models](http://cseweb.ucsd.edu/~fmireshg/naacl_2021_private_text_gen.pdf)| To be read|
 | [Moving beyond “algorithmic bias is a data problem”](https://www.cell.com/patterns/fulltext/S2666-3899(21)00061-1)| To be read| 
 | [Does GPT-2 Know Your Phone Number?](https://bair.berkeley.edu/blog/2020/12/20/lmmem/) | To be read| 
